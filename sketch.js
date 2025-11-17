@@ -78,7 +78,7 @@ function draw() {
     // 網頁中央的文字繪製 (含彈跳特效)
     // ===================================
     
-    let centerText = "你好！我是教科系1B 葉Ｏ妤！";
+    let centerText = "你好！我是教科系1B 葉亭妤！";
     
     // 設定文字大小、粗細、對齊
     textSize(40); 
@@ -194,7 +194,7 @@ function makeFilter() {
 
 const LECTURE_URL = "https://hackmd.io/@Ps5VCl_ESoGUUSDJGZ9QpA/ByEIDQRsll";
 const WORKS_URL = "https://jingyu127.github.io/20251020/";
-const QUIZ_URL = "https://jingyu127.github.io/251109/"; 
+const QUIZ_URL = "https://jingyu127.github.io/text/"; 
 
 /**
  * 通用函數：顯示指定的 URL 於 iframe 中。
